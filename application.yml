@@ -1,0 +1,3 @@
+emp:
+  test:
+    value: value-from-config-server
